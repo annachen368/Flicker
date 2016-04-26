@@ -15,9 +15,5 @@
         android:layout_height="wrap_content"
         android:id="@+id/gridView"
         android:layout_gravity="center"
-        android:numColumns="3"
-
-
-
-    />
+        android:numColumns="3" />
 </FrameLayout>
