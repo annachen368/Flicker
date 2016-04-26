@@ -1,6 +1,6 @@
 # Flicker
 
-<img src="http://i.imgur.com/MVA5sEy.gifv" width="288" height="480" />
+<img src="http://i.imgur.com/MVA5sEy.gif" width="288" height="480" />
 
 <img src="http://i.imgur.com/xTbhIrh.png" width="288" height="480" />
 <img src="http://i.imgur.com/dy8yEnS.png" width="288" height="480" />
